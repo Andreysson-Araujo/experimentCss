@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+div {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  border: 1px solid #333;
+  transition: all 04 ease;
+}
+
+section {
+  text-align: center;
+}
+
+footer {
+	color: #000;
+	text-align: center;
+	margin-top: 50px;
+  bottom: 0;
+}
